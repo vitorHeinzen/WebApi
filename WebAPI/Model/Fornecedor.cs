@@ -22,6 +22,8 @@ namespace WebAPI.Model
 
         public Fornecedor()
         {
+            //Criado apenas para a autenticação do token fixa User = UsuarioTeste password = 123456
+            //lembrando que quando adicionar o token tem que adiconar a Bearer + "token"
         }
     }
 }

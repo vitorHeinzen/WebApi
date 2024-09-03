@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "WebAPI\\Model\\Fornecedor.cs",
               "ToolTip": "C:\\WebAPI\\WebAPI\\WebAPI\\Model\\Fornecedor.cs",
               "RelativeToolTip": "WebAPI\\Model\\Fornecedor.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T01:44:39.255Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "WebAPI\\Controllers\\FornecedorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T01:44:29.755Z"
+              "WhenOpened": "2024-09-03T01:44:29.755Z",
+              "EditorCaption": ""
             }
           ]
         }
